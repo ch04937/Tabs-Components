@@ -58,7 +58,6 @@ class TabItem {
     // Add a class named "tabs-item-selected" to this element
     //this.element;
     this.element.classList.add('tabs-item-selected');
-    this.tabItem.select();
   }
 }
 
